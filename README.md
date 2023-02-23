@@ -6,7 +6,12 @@ This is a Node.js command-line application that takes in information about emplo
 
 ## Usage
 
-The application will allow the user to generate a team profile based on a series of prompts.
+This application will allow the user to generate a team profile. First, clone the project and in the VS Code terminal, install the following packages with the following commands:
+
+- npm i inquirer@8.2.4
+- npm i jest
+
+The application will start once the user types "node index.js" in the command-line.
 
 ### Walkthrough:
 
