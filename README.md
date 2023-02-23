@@ -21,11 +21,12 @@ The application will start once the user types "node index.js" in the command-li
 ### Generating HTML file:
 ![GIF](./assets/HTML.gif)
 
-### Sample of generated HTML file:
+### Sample of generated HTML file (SAMPLE-team.html in assets directory):
 ![JPG](./assets/Generated-File.jpg)
 
 ### Links:
 
 1. Testing: https://gifyu.com/image/S7bGa
 2. Generating HTML file: https://gifyu.com/image/S7bGf
+3. Sample HTML file is SAMPLE-team.html in assets directory
 3. https://github.com/XvrTeo/Team-Profile-Generator
