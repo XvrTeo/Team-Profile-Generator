@@ -116,7 +116,7 @@ function questions() {
           // Intern data is pushed into the array
 
           .then((response) => {
-            const addIntern = new Intern(response.name, response.id, response.email, response.schoolName)
+            const addIntern = new Intern(response.name, response.id, response.email, response.school)
             employeeArray.push(addIntern);
 
             questions();
