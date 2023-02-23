@@ -13,11 +13,16 @@ This application will allow the user to generate a team profile. First, clone th
 
 The application will start once the user types "node index.js" in the command-line.
 
-### Walkthrough:
+## GIF Animations:
 
-![GIF](./assets/Team-Profile-Generator.gif)
+### Testing:
+![GIF](./assets/Testing.gif)
+
+### Generating HTML file:
+![GIF](./assets/HTML.gif)
 
 ### Links:
 
-1. Walkthrough video:
-2. https://github.com/XvrTeo/Team-Profile-Generator
+1. Testing:
+2. Generating HTML file:
+3. https://github.com/XvrTeo/Team-Profile-Generator
