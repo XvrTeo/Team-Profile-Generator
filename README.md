@@ -21,6 +21,9 @@ The application will start once the user types "node index.js" in the command-li
 ### Generating HTML file:
 ![GIF](./assets/HTML.gif)
 
+### Sample of generated HTML file:
+![JPG](./assets/Generated-File.jpg)
+
 ### Links:
 
 1. Testing:
