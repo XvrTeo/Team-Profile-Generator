@@ -17,16 +17,20 @@ The application will start once the user types "node index.js" in the command-li
 
 ### Testing:
 ![GIF](./assets/Testing.gif)
+GIF link: https://gifyu.com/image/S7bGa
+YouTube link: https://youtu.be/Ymf3Idg4KpY
 
 ### Generating HTML file:
 ![GIF](./assets/HTML.gif)
+GIF link: https://gifyu.com/image/S7bGf
+YouTube link: https://youtu.be/CxGdBXhym1k
 
 ### Sample of generated HTML file (SAMPLE-team.html in assets directory):
 ![JPG](./assets/Generated-File.jpg)
 
 ### Links:
 
-1. Testing: https://gifyu.com/image/S7bGa
-2. Generating HTML file: https://gifyu.com/image/S7bGf
+1. Testing: https://youtu.be/Ymf3Idg4KpY
+2. Generating HTML file: https://youtu.be/CxGdBXhym1k
 3. Sample HTML file is SAMPLE-team.html in assets directory
 3. https://github.com/XvrTeo/Team-Profile-Generator
