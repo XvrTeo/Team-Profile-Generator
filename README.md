@@ -25,12 +25,12 @@ YouTube link: https://youtu.be/Ymf3Idg4KpY
 GIF link: https://gifyu.com/image/S7bGf
 YouTube link: https://youtu.be/CxGdBXhym1k
 
-### Sample of generated HTML file (SAMPLE-team.html in assets directory):
+### Sample of generated HTML file (team.html in 'dist'' directory):
 ![JPG](./assets/Generated-File.jpg)
 
 ### Links:
 
 1. Testing: https://youtu.be/Ymf3Idg4KpY
 2. Generating HTML file: https://youtu.be/CxGdBXhym1k
-3. Sample HTML file is SAMPLE-team.html in assets directory
+3. Sample HTML file is team.html in 'dist' directory
 3. https://github.com/XvrTeo/Team-Profile-Generator
