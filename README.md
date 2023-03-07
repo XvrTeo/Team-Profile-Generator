@@ -17,15 +17,19 @@ The application will start once the user types "node index.js" in the command-li
 
 ### Testing:
 ![GIF](./assets/Testing.gif)
-GIF link: https://gifyu.com/image/S7bGa
+
 YouTube link: https://youtu.be/Ymf3Idg4KpY
+
+GIF link: https://gifyu.com/image/S7bGa
 
 ### Generating HTML file:
 ![GIF](./assets/HTML.gif)
-GIF link: https://gifyu.com/image/S7bGf
+
 YouTube link: https://youtu.be/CxGdBXhym1k
 
-### Sample of generated HTML file (team.html in 'dist'' directory):
+GIF link: https://gifyu.com/image/S7bGf
+
+### Sample of generated HTML file (team.html in 'dist' directory):
 ![JPG](./assets/Generated-File.jpg)
 
 ### Links:
